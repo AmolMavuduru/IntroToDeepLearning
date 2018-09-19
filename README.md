@@ -15,3 +15,10 @@ and run the following commands to install **TensorFlow** and **Keras**:
 
 - **TensorFlow**: **conda install tensorflow**
 - **Keras**: **conda install keras**
+
+## Tutorials on Installing These Libraries
+
+Video: https://www.youtube.com/watch?v=PG4gCxIelrs
+
+Article: https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
+
