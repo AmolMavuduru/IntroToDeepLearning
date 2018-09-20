@@ -26,6 +26,7 @@ Article: https://machinelearningmastery.com/setup-python-environment-machine-lea
 - **images** - a directory with all of the graphics used as examples for the Jupyter notebook
 - **Intro to Deep Learning Slides.pdf** - the Google Slides presentation for this workshop in PDF format.
 - **Intro to Deep Learning.ipynb** - a Jupyter notebook with all of the code, explanations, and examples for the workshop.
+- **Intro to Deep Learning Full Output.ipynb** - a Jupyter notebook with the full expected output of running the code. (follow this if you are having installation problems or other errors running the code in the original notebook)
 - **README.md** - the document you are reading right now, which contains helpful information about this repo.
 
 ## Getting Started with Jupyter
@@ -33,3 +34,8 @@ Once you've installed all of the libraries, you can download or clone this GitHu
 by opening up your terminal or Anaconda Prompt and typing the command **jupyter notebook**. You can also
 go to your Anaconda navigator and launch Jupyter from there.
 
+<img src="./images/jupyter_terminal.png" title="Starting Jupyter from the Terminal"/>
+
+After starting Jupyter you should see your filesystem displayed in a screen that looks like this:
+
+<img src="./images/jupyter_filesystem.png" title="After Launching Jupyter"/>
