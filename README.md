@@ -34,7 +34,7 @@ Once you've installed all of the libraries, you can download or clone this GitHu
 by opening up your terminal or Anaconda Prompt and typing the command **jupyter notebook**. You can also
 go to your Anaconda navigator and launch Jupyter from there.
 
-<img src="./images/jupyter_terminal.png" title="Starting Jupyter from the Terminal"/>
+<img src="./images/jupyter_terminal_log.png" title="Starting Jupyter from the Terminal"/>
 
 After starting Jupyter you should see your filesystem displayed in a screen that looks like this:
 
