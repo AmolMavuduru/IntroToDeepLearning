@@ -2,7 +2,7 @@
 
 This is the GitHub repo for the 2018 AIS Intro to Deep Learning Workshop.
 
-Please install the following software dependencies:
+Please install the following software dependencies if you plan to run the code locally:
 
 - **Anaconda** - distribution of Python with many useful ML and data science libraries.
 - **TensorFlow** - popular deep learning library created by the Google Brain Team.
@@ -15,6 +15,14 @@ and run the following commands to install **TensorFlow** and **Keras**:
 
 - **TensorFlow**: **conda install tensorflow**
 - **Keras**: **conda install keras**
+
+Otherwise, you can run the code on Google Colab, which comes with all of the libraries installed, along with a GPU computing environment.
+Please use the following links:
+
+- **Intro to Deep Learning.ipynb**: https://colab.research.google.com/drive/1d8tWf1vzuR4qp6hQzjGSeF_Hhbl02Bhe
+- **Intro to Deep Learning Full Output.ipynb**: https://colab.research.google.com/drive/1nrS_3CrgpMZMZkC9uQGHIiz_5ewhgtgM
+
+The entire set of materials for this workshop can also be found at https://drive.google.com/drive/folders/1cU0z_tDzX_5Ki7dR6kpt15Uzh_nv0wn8?usp=sharing
 
 ## Tutorials on Installing These Libraries
 
